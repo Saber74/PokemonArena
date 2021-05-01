@@ -1,3 +1,9 @@
+/*Pokemon Project
+ConsoleColors class
+Nizar Alrifai
+Simple class copied from stackoverflow with adjustments to most/nearly all shades to suit
+ my needs. THe class affects the console output text colour, and is used throughout the pokemon
+ project in effort of making it look good*/
 public class ConsoleColors {
     //courtesy of Shakram02
     //https://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println
